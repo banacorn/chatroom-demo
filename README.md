@@ -1,4 +1,9 @@
-chatroom-demo
-=============
+install
+===
 
-demo of chatroom using node.js with express and socket.io
+	$ npm install
+
+usage
+===
+
+	$ node index.jss
